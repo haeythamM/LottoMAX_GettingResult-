@@ -1,0 +1,2 @@
+DIR ----> /home/pi/public_html/cgi-bin ---->imag and halmalak_PRG550B.211.A2.py
+DIR ----> /home/pi/public_html ----> halmalak_PRG550X.211.A2.html
